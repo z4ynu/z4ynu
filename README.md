@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zy!</h1>
 <h3 align="center">An aspiring web developer passionate about creating engaging web experiences</h3>
 <p align="center">
-🎓 <strong>Computer Science Student</strong> | 22 years old |
+🎓 <strong>Computer Science Student</strong>
 </p>
-<p align="center">
-🌱 Currently learning: <strong>React.js</strong>, <strong>Tailwind CSS</strong>, and <strong>Node.js</strong>
-</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zy-nuñez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zy-nuñez" height="30" width="40" /></a>
