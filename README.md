@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zy!</h1>
 <h3 align="center">An aspiring web developer passionate about creating engaging web experiences</h3>
 <p align="center">
-🎓 <strong>Computer Science Student</strong> | 22 years old | Specializing in <strong>JavaScript, HTML & CSS</strong>
+🎓 <strong>Computer Science Student</strong> | 22 years old |
 </p>
 <p align="center">
 🌱 Currently learning: <strong>React.js</strong>, <strong>Tailwind CSS</strong>, and <strong>Node.js</strong>
