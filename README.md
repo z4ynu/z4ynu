@@ -34,7 +34,7 @@
 <p align="left">
 - Power Automate - Workflow automation<br>
 - Power Apps - Custom business applications<br>
-- SharePoint - Document management and collaboration
+- SharePoint - Document management and collaboratio
 </p>
 <h4 align="left">🛠️ Tools & Technologies:</h4>
 <p align="left">
