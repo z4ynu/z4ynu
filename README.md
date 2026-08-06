@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Zy!</h1>
 <h3 align="center">An aspiring web developer passionate about creating engaging web experiences</h3>
 <p align="center">
-🎓 <strong>Computer Science Student</strong>
+🎓 <strong>Computer Science Undergraduate</strong>
 </p>
 
 <p align="center"> 
