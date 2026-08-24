@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Zy!</h1>
+<h1 align="center">Hi 👋, I'm Zy!</h1>
 <h3 align="center">A full-stack developer passionate about creating engaging web experiences</h3>
 <p align="center">
 🎓 <strong>Computer Science Undergraduate</strong>
