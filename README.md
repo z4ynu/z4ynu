@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on freelancing projects.<br>👯 I’m looking to collaborate on anything productive.<br>🤝 I’m looking for help with what comes in mind.<br>🌱 I’m currently learning automation.<br>💬 Ask me about anything.<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
@@ -15,8 +15,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=z4ynu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=z4ynu&icon=0&color=0)](https://visitcount.itsvg.in)
