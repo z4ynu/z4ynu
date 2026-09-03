@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on freelancing projects.<br>👯 I’m looking to collaborate on anything productive.<br>🤝 I’m looking for help with what comes in mind.<br>🌱 I’m currently learning automation.<br>💬 Ask me about anything.<br>⚡ Fun fact
+🔭 I’m currently working on freelancing projects.<br>👯 I’m looking to collaborate on anything productive.<br>🤝 I’m looking for help with what comes in mind.<br>🌱 I’m currently learning automation.<br>💬 Ask me about anything.<br>
 
 
 # 💻 Tech Stack:
